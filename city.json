@@ -2,45 +2,53 @@
   "ret":true,
   "data":{
     "hotCities":[{
-      "id": 101,
+      "id": 216,
       "spell": "beijing",
       "name": "北京"
     }, {
-      "id": 102,
+      "id": 1910,
       "spell": "shanghai",
       "name": "上海"
     }, {
-      "id": 103,
-      "spell": "tianjin",
-      "name": "天津"
+      "id": 1904,
+      "spell": "sanya",
+      "name": "三亚"
     }, {
-      "id": 104,
-      "spell": "shenzhen",
-      "name": "深圳"
+      "id": 2410,
+      "spell": "xianggang",
+      "name": "香港"
     }, {
-      "id": 105,
+      "id": 810,
+      "spell": "hangzhou",
+      "name": "杭州"
+    }, {
+      "id": 708,
       "spell": "guangzhou",
       "name": "广州"
     }, {
-      "id": 106,
+      "id": 310,
       "spell": "chengdu",
       "name": "成都"
     }, {
-      "id": 107,
-      "spell": "wuhan",
-      "name": "武汉"
+      "id": 1915,
+      "spell": "shenzhen",
+      "name": "深圳"
     }, {
-      "id": 101,
-      "spell": "cangzhou",
-      "name": "沧州"
+      "id": 1926,
+      "spell": "suzhou",
+      "name": "苏州"
     }, {
-      "id": 101,
-      "spell": "handan",
-      "name": "邯郸"
+      "id": 711,
+      "spell": "guilin",
+      "name": "桂林"
     }, {
-      "id": 1010,
-      "spell": "nanjing",
-      "name": "南京"
+      "id": 2402,
+      "spell": "xian",
+      "name": "西安"
+    }, {
+      "id": 2401,
+      "spell": "xiamen",
+      "name": "厦门                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "
     }],
     "cities": {
       "A": [{
